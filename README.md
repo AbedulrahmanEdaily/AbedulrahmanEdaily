@@ -1,5 +1,5 @@
 <div align="center">
-   <img width=100% src=https://capsule-render.vercel.app/api?type=waving&height=100&color=gradient&reversal=true />
+  <img width=100% src="https://capsule-render.vercel.app/api?type=waving&height=100&color=gradient&reversal=true" />
 </div>
 
 <h3 align="center">
@@ -8,17 +8,23 @@
 </h3>
 
 <p align="center">
- <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&center=true&vCenter=true&width=435&lines=Software++Engineer;Front+End+Developer;Student+At+PTUK" alt="Typing SVG" /></a>
+  <a href="https://git.io/typing-svg" target="_blank">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&center=true&vCenter=true&width=435&lines=💻+Software+Engineer;🎨+Front+End+Developer;🎓+Student+At+PTUK" alt="Typing SVG" />
+  </a>
 </p>
 
 <p align="center">
-  <a href="https://github.com/AbedulrahmaneEdaily/" align="center" ><img align="center"  alt="" src="https://visitor-badge.laobi.icu/badge?page_id=AbedulrahmanEdaily"></a>
+  <a href="https://github.com/AbedulrahmanEdaily" target="_blank">
+    <img alt="visitor badge" src="https://visitor-badge.laobi.icu/badge?page_id=AbedulrahmanEdaily">
+  </a>
 </p>
 
 ---
 
-- 👨‍💻 As an Front End Developer & Software Engineer, I'm constantly learning and exploring new technologies to improve my skills.
+- 👨‍💻 As a Front End Developer & Software Engineer, I'm constantly learning and exploring new technologies to improve my skills.
 - 🌱 I’m diving deeper into FrontEnd Development
+
+---
 
 ## 🛠 &nbsp;Tech Stack
 
@@ -41,52 +47,68 @@
 ![Visual Studio](https://img.shields.io/badge/Visual%20Studio-5C2D91.svg?style=for-the-badge&logo=visual-studio&logoColor=white)
 ![Figma](https://img.shields.io/badge/Figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
 
+---
+
 ## 📊 Profile Statistics
 
- <div align=center>
+<div align="center">
 
-![](https://github-readme-stats.vercel.app/api?username=AbedulrahmanEdaily&theme=algolia&show_icons=true&count_private=true&bg_color=1e2b3c&border_color=B2E0FF&icon_color=95ccff&border_radius=20&include_all_commits=true&rank_icon=percentile)
-<br>
+  <img src="https://github-readme-stats.vercel.app/api?username=AbedulrahmanEdaily&theme=algolia&show_icons=true&count_private=true&bg_color=1e2b3c&border_color=B2E0FF&icon_color=95ccff&border_radius=20&include_all_commits=true&rank_icon=percentile" />
 
 </div>
- 
- ### 💳 Github Profile Summary Card
- 
- <div align=center>
-  
-![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=AbedulrahmanEdaily=github_dark)
-  
- </div>
- 
- ### ⏱ Streak Stats
- 
- <div align=center>
-  
- [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=AbedulrahmanEdaily&theme=dracula&background=1E2B3C&border=B2E0FF&stroke=000439&ring=95CCFF&fire=95CCFF&currStreakNum=95CCFF&sideNums=95CCFF&currStreakLabel=95CCFF&sideLabels=95CCFF&dates=FFFFFF)](https://git.io/streak-stats)
 
- </div>
- 
+---
+
+### 💳 Github Profile Summary Card
+
+<div align="center">
+
+  <a href="https://github.com/AbedulrahmanEdaily" target="_blank">
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=AbedulrahmanEdaily&theme=github_dark" />
+  </a>
+
+</div>
+
+---
+
+### ⏱ Streak Stats
+
+<div align="center">
+
+  <a href="https://git.io/streak-stats" target="_blank">
+    <img src="http://github-readme-streak-stats.herokuapp.com?user=AbedulrahmanEdaily&theme=dracula&background=1E2B3C&border=B2E0FF&stroke=000439&ring=95CCFF&fire=95CCFF&currStreakNum=95CCFF&sideNums=95CCFF&currStreakLabel=95CCFF&sideLabels=95CCFF&dates=FFFFFF" />
+  </a>
+
+</div>
+
+---
+
 ### 📊 Most Used Language
 
- <div align=center>
-  
-[![](https://github-readme-stats.vercel.app/api/top-langs?username=AbedulrahmanEdaily&icons=true&locale=en&layout=compact&theme=radical)]()  
-  
- </div>
- 
+<div align="center">
+
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=AbedulrahmanEdaily&icons=true&locale=en&layout=compact&theme=radical" />
+
+</div>
+
+---
 
 ### 🔗 &nbsp;Contact Me
 
 <div align="center">
-<a href="mailto:abdelrahmanedele@gmail.com"><img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-<a href="https://linkedin.com/in/abdelrahman-edaily"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-<a href="https://www.facebook.com/AbedulrahmanEdaily/">
-  <img alt="Facebook" src="https://img.shields.io/badge/Abdelrahman%20Edaily-1877F2?style=for-the-badge&logo=facebook&logoColor=white"/>
-</a>
-
-</a>
+  <a href="mailto:abdelrahmanedele@gmail.com" target="_blank">
+    <img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://linkedin.com/in/abdelrahman-edaily" target="_blank">
+    <img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="https://www.facebook.com/AbedulrahmanEdaily/" target="_blank">
+    <img alt="Facebook" src="https://img.shields.io/badge/Abdelrahman%20Edaily-1877F2?style=for-the-badge&logo=facebook&logoColor=white"/>
+  </a>
 </div>
 
-<h5 align="center">سبحَانَكَ اللَّهُمَّ وَبِحَمْدِكَ، أَشْهَدُ أَنْ لا إِلهَ إِلأَ انْتَ أَسْتَغْفِرُكَ وَأَتْوبُ إِلَيْكَ</h5>
-
 ---
+
+<h5 align="center">
+  سبحَانَكَ اللَّهُمَّ وَبِحَمْدِكَ، أَشْهَدُ أَنْ لا إِلهَ إِلأَ انْتَ أَسْتَغْفِرُكَ وَأَتْوبُ إِلَيْكَ
+</h5>
