@@ -21,14 +21,16 @@
 
 ---
 
+## 👋 About Me
+
 - 👨‍💻 As a Front End Developer & Software Engineer, I'm constantly learning and exploring new technologies to improve my skills.
 - 🌱 I’m diving deeper into FrontEnd Development
 
 ---
 
-## 🛠 &nbsp;Tech Stack
+## 🛠 Tech Stack
 
-#### 🔧 Languages
+### 💻 Languages
 
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
@@ -37,7 +39,7 @@
 ![JavaScript](https://img.shields.io/badge/JavaScript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
 ![Python](https://img.shields.io/badge/Python-%2314354C.svg?style=for-the-badge&logo=python&logoColor=white)
 
-#### 🔧 Tools
+### 🧰 Tools & IDEs
 
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
@@ -59,7 +61,7 @@
 
 ---
 
-### 💳 Github Profile Summary Card
+## 💳 Github Profile Summary Card
 
 <div align="center">
 
@@ -71,19 +73,20 @@
 
 ---
 
-### ⏱ Streak Stats
+## ⏱ Streak Stats
 
 <div align="center">
 
-  <a href="https://git.io/streak-stats" target="_blank">
-    <img src="http://github-readme-streak-stats.herokuapp.com?user=AbedulrahmanEdaily&theme=dracula&background=1E2B3C&border=B2E0FF&stroke=000439&ring=95CCFF&fire=95CCFF&currStreakNum=95CCFF&sideNums=95CCFF&currStreakLabel=95CCFF&sideLabels=95CCFF&dates=FFFFFF" />
-  </a>
+<a href="https://git.io/streak-stats" target="_blank">
+  <img src="https://github-readme-stats.vercel.app/api?username=AbedulrahmanEdaily&show_icons=true&theme=radical&count_private=true&include_all_commits=true" />
+</a>
+
 
 </div>
 
 ---
 
-### 📊 Most Used Language
+## 📊 Most Used Language
 
 <div align="center">
 
@@ -93,7 +96,7 @@
 
 ---
 
-### 🔗 &nbsp;Contact Me
+## 🔗 Contact Me
 
 <div align="center">
   <a href="mailto:abdelrahmanedele@gmail.com" target="_blank">
