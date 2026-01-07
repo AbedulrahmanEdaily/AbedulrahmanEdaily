@@ -9,7 +9,7 @@
 
 <p align="center">
   <a href="https://git.io/typing-svg" target="_blank">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&center=true&vCenter=true&width=435&lines=💻+Software+Engineer;🎨+Front+End+Developer;🎓+Student+At+PTUK" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&pause=1000&center=true&vCenter=true&width=435&lines=%F0%9F%8E%93+Student+At+PTUK%D9%83%F0%9F%92%BB+Software+Engineer;%F0%9F%8E%A8+Back+End+Developer;Asp.net" alt="Typing SVG" />
   </a>
 </p>
 
@@ -102,7 +102,7 @@
   <a href="mailto:abdelrahmanedele@gmail.com" target="_blank">
     <img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
-  <a href="www.linkedin.com/in/abdelrahman-r-edaily-9a044337a" target="_blank">
+  <a href="www.linkedin.com/in/abdelrahman-edaily-9a044337a" target="_blank">
     <img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
   <a href="https://www.facebook.com/AbedulrahmanEdaily/" target="_blank">
