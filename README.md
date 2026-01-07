@@ -9,7 +9,7 @@
 
 <p align="center">
   <a href="https://git.io/typing-svg" target="_blank">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&pause=1000&center=true&vCenter=true&width=435&lines=%F0%9F%8E%93+Student+At+PTUK%D9%83%F0%9F%92%BB+Software+Engineer;%F0%9F%8E%A8+Back+End+Developer;Asp.net" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&pause=1000&center=true&vCenter=true&width=435&lines=%F0%9F%8E%93+Student+@+PTUK;%F0%9F%92%BB+Software+Engineer;%F0%9F%8E%A8+Back+End+Developer;Asp.net" alt="Typing SVG" />
   </a>
 </p>
 
@@ -77,9 +77,7 @@
 
 <div align="center">
 
-<a href="https://git.io/streak-stats" target="_blank">
-  <img src="https://github-readme-stats.vercel.app/api?username=AbedulrahmanEdaily&show_icons=true&theme=radical&count_private=true&include_all_commits=true" />
-</a>
+<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=AbedulrahmanEdaily&theme=dark" alt="GitHub Streak" /></a>
 
 
 </div>
