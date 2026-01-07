@@ -49,15 +49,6 @@
 ![Visual Studio](https://img.shields.io/badge/Visual%20Studio-5C2D91.svg?style=for-the-badge&logo=visual-studio&logoColor=white)
 ![Figma](https://img.shields.io/badge/Figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
 
----
-
-## 📊 Profile Statistics
-
-<div align="center">
-
-  <img src="https://github-readme-stats.vercel.app/api?username=AbedulrahmanEdaily&theme=algolia&show_icons=true&count_private=true&bg_color=1e2b3c&border_color=B2E0FF&icon_color=95ccff&border_radius=20&include_all_commits=true&rank_icon=percentile" />
-
-</div>
 
 ---
 
@@ -84,15 +75,7 @@
 
 ---
 
-## 📊 Most Used Language
 
-<div align="center">
-
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=AbedulrahmanEdaily&icons=true&locale=en&layout=compact&theme=radical" />
-
-</div>
-
----
 
 ## 🔗 Contact Me
 
