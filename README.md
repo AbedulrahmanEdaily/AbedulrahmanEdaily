@@ -23,8 +23,8 @@
 
 ## 👋 About Me
 
-- 👨‍💻 As a Front End Developer & Software Engineer, I'm constantly learning and exploring new technologies to improve my skills.
-- 🌱 I’m diving deeper into FrontEnd Development
+👨‍💻 As a Back End Developer & Software Engineer, I'm constantly learning and exploring new technologies to improve my skills.
+🌱 I’m diving deeper into BackEnd Development
 
 ---
 
