@@ -75,9 +75,6 @@
 </div>
 
 ---
-
-
-
 ## 🔗 Contact Me
 
 <div align="center">
@@ -93,7 +90,12 @@
 </div>
 
 ---
+## 🧠 Most Used Languages
 
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AbedulrahmanEdaily&layout=compact&theme=dark&hide_border=true" />
+</div>
+---
 <h5 align="center">
   سبحَانَكَ اللَّهُمَّ وَبِحَمْدِكَ، أَشْهَدُ أَنْ لا إِلهَ إِلأَ انْتَ أَسْتَغْفِرُكَ وَأَتْوبُ إِلَيْكَ
 </h5>
