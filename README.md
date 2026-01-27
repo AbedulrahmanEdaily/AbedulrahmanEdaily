@@ -23,18 +23,17 @@
 
 ## 👋 About Me
 
-👨‍💻 As a Full Stack Developer & Software Engineer, I'm constantly learning and exploring new technologies to improve my skills.
-
-🌱 I’m diving deeper into Backend Development
+👨‍💻 👨‍💻 I'm a Software Engineer with a strong focus on Back-End development, while having solid front-end experience.
 
 ---
 
 ## 🛠 Tech Stack
 
-### 💻 Languages
+### 💻 Languages & Frameworks
 
 ![C#](https://img.shields.io/badge/C%23-239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white)
 ![SQL Server](https://img.shields.io/badge/SQL%20Server-CC2927.svg?style=for-the-badge&logo=microsoftsqlserver&logoColor=white)
+![ASP.NET](https://img.shields.io/badge/ASP.NET-512BD4.svg?style=for-the-badge&logo=dotnet&logoColor=white)
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
